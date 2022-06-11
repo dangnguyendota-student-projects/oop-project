@@ -1,0 +1,11 @@
+fffffffffffffffffffffff
+fc00000000600000000c0cf
+f0cbbbbbbb1bbbbbbbc0c0f
+fc91131131213113117c0cf
+f0cbb1bb1bbb1bb1bbc0c0f
+fc0cb1b01b0b10b1b00c0cf
+f0c0b1b01bbb10b1b0c0c0f
+fc0c0-00213120080c0c0cf
+f0c0c0c0c010c0c0c0c0c0f
+fc0c0c0c00-00c0c0c0c0cf
+fffffffffffffffffffffff
